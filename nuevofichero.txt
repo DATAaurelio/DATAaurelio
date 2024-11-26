@@ -1,1 +1,1 @@
-Esto es un nuevo fichero.
+Esto es un nuevo fichero de texto.
